@@ -10,6 +10,7 @@
 
 ## System requirements
 - Python 3.10
+- pipenv
 - NodeJS 19.4
 - Docker
 - Postgres client like PgAdmin 4 or any other
